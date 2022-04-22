@@ -1,6 +1,4 @@
-# UpLeveled
-
-Need a change? Learn to program.
+## UpLeveled - Need a change? Learn to program.
 
 https://upleveled.io/
 
